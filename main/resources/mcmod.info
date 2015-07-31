@@ -1,0 +1,19 @@
+[
+{
+  "modid": "SpecialArmor",
+  "name": "SpecialArmor",
+  "description": "Adds Special Armor To Minecraft",
+  "version": "1.0.1a",
+  "credits": "Created by mod maker MCreator and jtrent238",
+  "logoFile": "/logo.png",
+  "mcversion": "1.8",
+  "url": "http://mcreator.pylo.si/",
+  "updateUrl": "",
+  "authors": [ "jtrent238" , "MCreator" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
